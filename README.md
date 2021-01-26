@@ -1,10 +1,20 @@
 <img src="https://github.com/AstralOceane/AstralOceane/blob/main/img/top-banner.png.png"/>
 
 
-<!--
-**AstralOceane/AstralOceane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/matheus-novaes-a7a247200/">Matheus</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</br>   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+
+</br>
+
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Matheus Noves | 💻 Full Stack Developer | 🛸 Hortolândia-SP , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 
 - 🌱 I’m currently learning web development
@@ -13,8 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML,CSS, JavaScript and Reacts.js
 - 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?tab=wm&ogbl)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+
 
 ### 🛠 &nbsp;Tech Stack
 
