@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/matheus-novaes-a7a247200/"><img src="https://img.shields.io/badge/-Matheus%20Novaes%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matheus.novaes998@gmail.com"><img src="https://img.shields.io/badge/-my gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.behance.net/matheusnovaes3"><img src="https://img.shields.io/badge/-@Matheus Novaes?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.behance.net/matheusnovaes3"><img src="https://img.shields.io/badge/-@Matheus-3320EB?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
