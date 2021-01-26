@@ -7,15 +7,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<p>
 - 🌱 I’m currently learning web development
 - 👯 I’m collaborating on [Labenu](https://github.com/future4code/Matheus-Novaes)
 - 🤔 I’m looking for help with open source projects
 - 💬 Ask me about HTML,CSS, JavaScript and Reacts.js
-- 📫 How to reach me: [Gmail]()
-- 😄 Pronouns: ...
+- 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?tab=wm&ogbl)
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
--->
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
