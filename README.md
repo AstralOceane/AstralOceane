@@ -1,6 +1,6 @@
 <img src="https://github.com/AstralOceane/AstralOceane/blob/main/img/top-banner.png.png"/>
 
-### Hi there 👋
+<p align="center">### Hi there 👋</p>
 
 <!--
 **AstralOceane/AstralOceane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
