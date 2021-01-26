@@ -26,6 +26,7 @@
 - 📫 How to reach me: [matheus.novaes998@gmail.com](https://mail.google.com/mail/u/0/?tab=wm&ogbl)
 - 😄 Pronouns: he/him
 
+</br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -41,6 +42,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+</br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -50,5 +52,7 @@
 <a href="mailto:matheus.novaes998@gmail.com"><img src="https://img.shields.io/badge/-my gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.behance.net/matheusnovaes3"><img src="https://img.shields.io/badge/-@Matheus-3320EB?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
+</br>
 
 <img src="https://github.com/AstralOceane/AstralOceane/blob/main/img/bottom-banner.png.png" />
