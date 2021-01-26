@@ -19,7 +19,7 @@
 - 👯 I’m collaborating on [Labenu](https://github.com/future4code/Matheus-Novaes)
 - 🤔 I’m looking for help with open source projects
 - 💬 Ask me about HTML,CSS, JavaScript and Reacts.js
-- 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?tab=wm&ogbl)
+- 📫 How to reach me: [matheus.novaes998@gmail.com](https://mail.google.com/mail/u/0/?tab=wm&ogbl)
 - 😄 Pronouns: he/him
 
 
