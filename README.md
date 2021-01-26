@@ -1,6 +1,6 @@
 <img src="https://github.com/AstralOceane/AstralOceane/blob/main/img/top-banner.png.png"/>
 
-<p align="center">### Hi there 👋</p>
+<p align="center"> I'm Front-End Developer 👋</p>
 
 <!--
 **AstralOceane/AstralOceane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 <a href="mailto:matheus.novaes998@gmail.com"><img src="https://img.shields.io/badge/-my gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.behance.net/matheusnovaes3"><img src="https://img.shields.io/badge/-@Matheus-3320EB?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
+<img src="https://github.com/AstralOceane/AstralOceane/blob/main/img/bottom-banner.png.png" />
