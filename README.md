@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?tab=wm&ogbl)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
-
+-->
 
 ### 🛠 &nbsp;Tech Stack
 
