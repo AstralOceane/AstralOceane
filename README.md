@@ -1,6 +1,6 @@
 <img src="https://github.com/AstralOceane/AstralOceane/blob/main/img/top-banner.png.png"/>
 
-
+</br>  
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/matheus-novaes-a7a247200/">Matheus</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
