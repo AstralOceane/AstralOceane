@@ -9,13 +9,11 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-</br>
-
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Matheus Noves | 💻 Full Stack Developer | 🛸 Hortolândia-SP , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
+</br>
 
 - 🌱 I’m currently learning web development
 - 👯 I’m collaborating on [Labenu](https://github.com/future4code/Matheus-Novaes)
